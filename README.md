@@ -1,4 +1,5 @@
 # Hadoop-WordCount
+Operating System: Ubuntu 18.04
 Commands:
 1. export HADOOP_CLASSPATH=$(hadoop classpath)
 2. echo $HADOOP_CLASSPATH
